@@ -1,0 +1,9 @@
+[submodule "AktiveFilter"]
+	path = 5BHET (2022-23)/AktiveFilter
+	url = https://github.com/hampoelz/HTL_Labor_AktiveFilter
+[submodule "StromquelleNIV"]
+	path = 5BHET (2022-23)/StromquelleNIV
+	url = https://github.com/hampoelz/HTL_Labor_StromquelleNIV
+[submodule "Spannungsstabilisierung"]
+	path = 5BHET (2022-23)/Spannungsstabilisierung
+	url = https://github.com/hampoelz/HTL_Labor_Spannungsstabilisierung
